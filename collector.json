@@ -1,0 +1,18 @@
+{
+	"Places": [
+		{
+			"title": [
+				"Italy",
+				"Rome",
+				"Pretty"
+			],
+			"value": "1000",
+			"date": [
+				"July",
+				"2020"
+			],
+			"condition": 85,
+			"picture": "italy"
+		}
+	]
+}
