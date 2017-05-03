@@ -13,6 +13,20 @@
 			],
 			"condition": 85,
 			"picture": "italy"
+		},
+		{
+			"title": [
+				"United States",
+				"Chicago",
+				"Skyline"
+			],
+			"value": "100",
+			"date": [
+				"January",
+				"2020"
+			],
+			"condition": 71,
+			"picture": "chicago"
 		}
 	]
 }
